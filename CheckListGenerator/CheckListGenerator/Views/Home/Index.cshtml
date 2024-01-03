@@ -1,0 +1,54 @@
+﻿@using CheckListGenerator.ViewModels
+@model IndexViewModel
+
+
+<div class="news wow fadeInUp top-margin-all">
+	<div class="container themabilitynewsletterblock ">
+		<div class="themability-newsletter-form block-content box-content">
+			<div class="title-text page-title toggled hidden">
+				<h3>Генератор</h3>
+			</div>
+			<div class="block_box">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="news-info">
+							<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="currentColor" class="bi bi-list-check" viewBox="0 0 16 16">
+								<path fill-rule="evenodd" d="M5 11.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3.854 2.146a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 1 1 .708-.708L2 3.293l1.146-1.147a.5.5 0 0 1 .708 0m0 4a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 1 1 .708-.708L2 7.293l1.146-1.147a.5.5 0 0 1 .708 0m0 4a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 0 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0" />
+							</svg>
+							<div class="news-desc m-lg-5">
+								<h4 class="title-text page-title">Генератор</h4>
+								<div class="news-description">
+									Щоб згенерувати чек-ліст на базі документації,
+									завантажте Ваш документ (.doc або .docx) сюди:
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="frmthemabilitynewsletter">
+							<div class="subscribe-form">
+								<form asp-action="GenerateCheckList" asp-controller="Home" method="post" enctype="multipart/form-data">
+									Згенерувати англійською мовою
+									<input type="checkbox" asp-for="Language" value="true" class="form-check-input">
+									&nbsp;
+									<div class="form-group mt-3">
+										<input type="file" class="form-control" asp-for="File" accept="application/msword, application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+										<span asp-validation-for="File" class="text-danger"></span>
+									</div>
+									
+									<div class="form-group">
+										@Html.AntiForgeryToken()
+										<input type="submit" value="Згенерувати" class="btn btn-primary" />
+									</div>
+									<div asp-validation-summary="All" class="text-danger"></div>
+								</form>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

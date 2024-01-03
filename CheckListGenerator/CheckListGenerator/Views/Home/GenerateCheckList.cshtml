@@ -1,0 +1,47 @@
+﻿@using CheckListGenerator.ViewModels
+@using ClosedXML.Excel
+@model DocumentViewModel
+
+@{
+    var worksheet = Model.Workbook.Worksheet(1);
+}
+
+<div class="row">
+	<div class="category-img col-sm-12 mt-3">
+        <a asp-action="Download" asp-controller="Home" asp-route-path="@Model.Path" class="btn btn-secondary" style="width:100%"><i class="fa fa-download"></i> Завантажити</a>
+	</div>
+	<div class="category-desc col-sm-12">
+		<p>
+            <h2>@Model.FileName</h2>
+            <div id="excelData">
+                <table class="table">
+
+                    @for (int row = 1; row <= worksheet.LastRowUsed().RowNumber(); row++)
+                    {
+                        <tr>
+                            @for (int col = 1; col <= worksheet.LastColumnUsed().ColumnNumber(); col++)
+                            {
+                                <td>
+                                    @worksheet.Cell(row, col).Value
+                                </td>
+                            }
+                        </tr>                        
+                    }
+
+                </table>
+            </div>
+
+		</p>
+	</div>
+</div>
+
+<style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+    </style>

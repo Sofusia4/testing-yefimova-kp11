@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CheckListGenerator.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CheckListGenerator.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\css\\themability_megamenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themability_megamenu.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\fonts\\themability-font.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themability-font.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\fonts\\themability-font\\themability.eot@it42j3",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themability-font\\themability.eot@it42j3"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\fonts\\themability-font\\themability.svg@it42j3",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themability-font\\themability.svg@it42j3"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\fonts\\themability-font\\themability.ttf@it42j3",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themability-font\\themability.ttf@it42j3"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\fonts\\themability-font\\themability.woff@it42j3",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themability-font\\themability.woff@it42j3"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\ajax_loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\ajax_loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\ar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ar.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\banner2-inner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner2-inner.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\banner2-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner2-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\category_banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\category_banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\category_banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\category_banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\mainbanner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\mainbanner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\banners\\mainbanner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\mainbanner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\blog\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\blog\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\blog\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\blog\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\blog\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\blog\\shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\shape.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\body-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\body-wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\categories\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\company-brand\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\company-brand\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\company-brand\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\company-brand\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\company-brand\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\company-brand\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-brand\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\en-gb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\en-gb.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\megamenu\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\megamenu\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\banner-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\banner-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\newsletter-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\newsletter-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\products\\pizza.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\testimonial\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\testimonial\\testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\images\\testimonial\\testimonial-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial-bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\js\\themability_megamenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\themability_megamenu.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\assets\\js\\vendors\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\checklists\\CheckList (bug report).xlsx",
+      "PackagePath": "staticwebassets\\checklists\\CheckList (bug report).xlsx"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\checklists\\CheckList (ТЗ).xlsx",
+      "PackagePath": "staticwebassets\\checklists\\CheckList (ТЗ).xlsx"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\checklists\\Чек-ліст (bug report).xlsx",
+      "PackagePath": "staticwebassets\\checklists\\Чек-ліст (bug report).xlsx"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\checklists\\Чек-ліст (ТЗ).xlsx",
+      "PackagePath": "staticwebassets\\checklists\\Чек-ліст (ТЗ).xlsx"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\source\\repos\\CheckListGenerator\\CheckListGenerator\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CheckListGenerator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CheckListGenerator.props",
+      "PackagePath": "build\\CheckListGenerator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CheckListGenerator.props",
+      "PackagePath": "buildMultiTargeting\\CheckListGenerator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CheckListGenerator.props",
+      "PackagePath": "buildTransitive\\CheckListGenerator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

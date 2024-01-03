@@ -1,0 +1,136 @@
+﻿@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Генератор чек-лістів</title>
+	<meta name="description" content="Cryptco">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" href="~/assets/images/favicon.png">
+	<!-- bootstrap CSS -->
+	<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+	<!-- owl-carousel CSS -->
+	<link rel="stylesheet" href="~/assets/css/owl.carousel.css" type="text/css" media="all" />
+	<!-- font-awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+	<!-- icomoon CSS -->
+	<link rel="stylesheet" href="~/assets/fonts/themability-font.css" type="text/css" media="all">
+	<!-- Main Style CSS -->
+	<link rel="stylesheet" href="~/assets/css/style.css" type="text/css" media="all" />
+	<!-- Font -->
+	<link href="https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+	<!--themability_megamenu css-->
+	<link rel="stylesheet" href="~/assets/css/themability_megamenu.css">
+</head>
+
+
+
+<body class="homepage">
+	<div class="loader"></div>
+	<!-- HEADER DEFAULT MANU AREA -->
+	<nav id="top">
+		<div class="container">
+			<div class="top-left">
+				<div class="contact-info">
+					<a asp-action="Index" asp-controller="Home">
+						<i class="fa fa-home"></i>
+						<span class="">Головна</span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+
+	<!-- .HEADER MENU AREA -->
+	@RenderBody()
+
+
+	<!-- footer -->
+	<footer>
+		<div class="container">
+			<div class="footer-top">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="position-footer-left">
+							<h5 class="toggled title">
+								Моя інформація
+								<!-- <span class="toggle-open"><i class="fa fa-chevron-down"></i></span> -->
+							</h5>
+							<ul class="list-unstyled">
+								<li>
+									<div class="email">
+										<div class="contact_title"><i class="fa fa-envelope"></i></div>
+										<div class="contact_site">@Configuration.GetSection("MyInfo")["Email"]</div>
+									</div>
+								</li>
+								<li>
+									<div class="email">
+										<div class="contact_title">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-person-fill" viewBox="0 0 16 16">
+												<path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+											</svg>
+										</div>
+										<div class="contact_site">@Configuration.GetSection("MyInfo")["Name"]</div>
+									</div>
+								</li>
+								<li>
+									<div class="email">
+										<div class="contact_title">
+											<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-people-fill" viewBox="0 0 16 16">
+												<path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5" />
+											</svg>
+										</div>
+										<div class="contact_site">@Configuration.GetSection("MyInfo")["Group"]</div>
+									</div>
+								</li>
+								<li>
+									<div class="email">
+										<div class="contact_title"><i class="fa-regular fa-clock"></i></div>
+										<div class="contact_site">@Configuration.GetSection("MyInfo")["Year"]</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <hr> -->
+			<p class="copyright"><a href="index.html#"></a>© 2024 CheckListGenerator - All Rights Reserved.</p>
+		</div>
+	</footer>
+
+	<a class="scrollToTop back-to-top" asp-action="Index" asp-controller="Home" data-toggle="tooltip" title="" data-original-title="Top"><i class="fa fa-angle-up"></i></a>
+
+	<!-- .footer -->
+
+	<script data-cfasync="false" src="~/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<script src="~/assets/js/vendors/jquery-2.1.1.min.js" type="text/javascript"></script>
+
+	<!-- bootstrap js -->
+	<script type="text/javascript" src="~/assets/js/bootstrap.min.js"></script>
+	<!-- owl-carousel js -->
+	<script type="text/javascript" src="~/assets/js/owl.carousel.min.js"></script>
+	<!-- js -->
+	<script src="~/assets/js/themability_megamenu.js"></script>
+
+	<!-- wow javascript -->
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" type="text/javascript"></script>
+	<script type="text/javascript">new WOW().init();</script>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" rel="stylesheet" />
+	<!-- Main js -->
+	<script type="text/javascript" src="~/assets/js/theme.js"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+
+
+</body>
+
+</html>
+
+
